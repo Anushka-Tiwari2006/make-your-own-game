@@ -1,16 +1,16 @@
 var pc,stair,stairGroup;
 
  function preload(){
-   zImage = loadImage("Sunbae game/26.png");
-   zImage2 = loadImage("Sunbae game/32.png");
-   zImage3 = loadImage("Sunbae game/33.png");
-   pcImg  = loadImage("Sunbae game/34.png");
+   zImage = loadImage("26.png");
+   zImage2 = loadImage("32.png");
+   zImage3 = loadImage("33.png");
+   pcImg  = loadImage("34.png");
    zBack1 = loadImage("d-day.png");
-   zBack2 = loadImage("Sunbae game/4.png");
-   zBack3 = loadImage("Sunbae game/7.png");
-   zBack4 = loadImage("Sunbae game/8.png");
-   log  = loadImage("Sunbae game/35.png");
-   gImg  = loadImage("Sunbae game/36.png");
+   zBack2 = loadImage("4.png");
+   zBack3 = loadImage("7.png");
+   zBack4 = loadImage("8.png");
+   log  = loadImage("35.png");
+   gImg  = loadImage("36.png");
 
 
 
